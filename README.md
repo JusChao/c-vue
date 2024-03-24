@@ -1,4 +1,5 @@
 # c-vue
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+learn
+>>>>>>> 1a95545275eeb8bac62c572c273819529240431f
