@@ -19,7 +19,8 @@ const navigateToBeianMps = () => {
 import {useRouter} from 'vue-router'
 const router = useRouter();
 const hub = () => {
-    router.push('/hub/')
+    // router.push('/hub/')
+    location.href = 'goodcyc.com/hub/'
 }
 
 </script>
